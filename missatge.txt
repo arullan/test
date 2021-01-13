@@ -1,2 +1,6 @@
 Hola, soc en Toni Rullan :)
+<<<<<<< HEAD
 hola soc en Jaume Garcias
+=======
+aqui aniria el vostre missatge
+>>>>>>> 74c2777470833a0109fe1f15666493ec5a63390a
